@@ -9,3 +9,5 @@ After the data cleansing process was completed, a query was created to extract t
 Once the data was extracted, it was loaded into Power BI for visualization. The Power BI dashboard was designed to provide insights into the hotel revenue and occupancy data. The dashboard included various visualizations such as bar charts, line charts, and tables. The visualizations included information about revenue and occupancy rates across different room categories, booking platforms, check-in dates, and hotels. Additionally, trends in revenue and occupancy rates over time were also included in the dashboard.
 
 Overall, this project provides a comprehensive analysis of hotel revenue and occupancy rates using data from multiple sources. The analysis and visualization were done using SQL Server Management Studio and Power BI, respectively. The final output is a dashboard that provides valuable insights into the hotel's performance and provides recommendations for improving performance during low seasons or economic downturns.
+
+https://public.tableau.com/app/profile/mukesh.ale/viz/Book1_16839223767660/Dashboard1
